@@ -1,5 +1,5 @@
 #include<stdio.h>
-void fage(int *);
+void fage(int *pAge);
 int main()
 {
     int age;
